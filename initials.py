@@ -1,3 +1,14 @@
+# File: initials.py
+# Description: Print out my initials in stylized large block letters.
+# Assignment Number: 1
+#
+# Name: Prince Oko Annang
+# STUDENT ID:  2425402345
+# Email: 2425402345@live.gctu.edu.gh
+# Grader: Prince
+#
+# On my honor, Prince Oko Annang, this programming assignment is my own work
+# and I have not provided this code to any other student.
 
 def main():
   pass #code goes here
